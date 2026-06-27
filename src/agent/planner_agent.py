@@ -4,10 +4,10 @@ from agent.ml_model_discovery_agent import ml_model_discovery_agent
 from agent.action_recommendation_agent import action_recommendation_agent
 
 
-AGENT_NAME = "controller_agent"
+AGENT_NAME = "planner_agent"
 
 
-controller_agent = Agent(
+planner_agent = Agent(
     name=AGENT_NAME,
     instructions=f"""
     Your role is to recommend a campaign based on the user prompt.  

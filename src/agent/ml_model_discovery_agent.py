@@ -1,5 +1,3 @@
-import os
-
 from agents import Agent
 from agents.tool import function_tool
 from config import ML_MODELS_REGISTRY_PATH

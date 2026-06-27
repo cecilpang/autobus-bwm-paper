@@ -1,5 +1,5 @@
 import os
-from agents import AsyncOpenAI, OpenAIChatCompletionsModel, set_tracing_disabled
+from agents import AsyncOpenAI, OpenAIChatCompletionsModel
 
 def get_gemini() -> OpenAIChatCompletionsModel: 
 

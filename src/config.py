@@ -1,6 +1,3 @@
-PROLOG_TEMPLATE_DIR = 'prolog-templates'
-GENERATED_PROLOG_DIR = 'generated'
-DB_DIR = 'database'
-DB_PATH = 'database/db.sqlite'
-ML_MODELS_REGISTRY_PATH = 'supporting-markdowns/ml_model_registry.md'
-ACTION_SPACE_PATH = 'supporting-markdowns/action_space.md'
+# BWM
+ML_MODELS_REGISTRY_PATH = 'bwm/ml_model_registry.md'
+ACTION_SPACE_PATH = 'bwm/action_space.md'
