@@ -1,6 +1,6 @@
 ## Paper: Business World Model
 
-The AI agents use Google Gemini gemini-3.5-flash<br/>
+AI agents in this demo use Google Gemini gemini-3.5-flash
 
 ### To run the demo:
 1. Install uv: https://github.com/astral-sh/uv
@@ -16,7 +16,7 @@ The AI agents use Google Gemini gemini-3.5-flash<br/>
     GEMINI_API_KEY=<your Gemini key>
     ```
 
-4. Generate churn reduction campaign</br>
+4. Generate churn reduction campaign:
 
     ```
     uv run --env-file .env --script src/churn_reduction_campaign.py
